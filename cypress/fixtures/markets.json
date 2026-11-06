@@ -1,0 +1,24 @@
+
+{
+    "US": {
+      "name": "United States",
+      "language": "en",
+      "currency": "USD",
+      "country": "us",
+      "searchTerm": "Lacoste US",
+      "expectedUrl": "https://www.lacoste.com/us",
+      "expectedPath": "/us",
+      "expectedTitleKeyword": "Lacoste"
+    },
+    "FR": {
+      "name": "France",
+      "language": "fr",
+      "currency": "EUR",
+      "country": "fr",
+      "searchTerm": "Lacoste FR",
+      "expectedUrl": "https://www.lacoste.com/fr",
+      "expectedPath": "/fr",
+      "expectedTitleKeyword": "Lacoste"
+    }
+  }
+  
