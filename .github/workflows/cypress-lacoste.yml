@@ -29,7 +29,7 @@ jobs:
 
       # 5. Execute Cypress tests
       - name: Run Cypress tests
-        run: npm run cy:run:chrome
+        run: npm run cy:chrome
 
       # 6. Upload HTML report
       - name: Upload Cypress HTML Report
